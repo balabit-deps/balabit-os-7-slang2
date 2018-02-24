@@ -1,0 +1,6 @@
+version=3
+
+https://www.jedsoft.org/releases/slang/ slang-([\d.]+)\.tar\.(?:bz2|gz)
+# latest
+#ftp://space.mit.edu/pub/davis/slang/latest/slang-([\d.]+)\.tar\.(?:bz2|gz)
+
